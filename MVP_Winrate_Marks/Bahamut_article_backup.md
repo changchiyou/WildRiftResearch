@@ -32,9 +32,9 @@ The content below was converted from [Bahamut_article_backup.bbcode](/MVP_Winrat
 
 有基本概念後就可以參考我在 2023/1/10 統計的 S7 賽季末菁英前 200 數據（官方只有批量公布這部分玩家的數據）。
 
-> 計算全過程：[GitHub链接](https://github.com/changchiyou/WildRiftResearch/blob/main/MVP_WinRate_Marks.ipynb)
+> 計算全過程：[GitHub链接](/MVP_Winrate_Marks/MVP_WinRate_Marks.ipynb)
 >
-> 數據（S8-2023-01-17.csv 基本上不可用，因為那時剛開服大家還沒爬上去）：[GitHub链接](https://github.com/changchiyou/WildRiftResearch/blob/main/challenger_datas/S7-2023-01-10.csv)
+> 數據（S8-2023-01-17.csv 基本上不可用，因為那時剛開服大家還沒爬上去）：[GitHub链接](/MVP_Winrate_Marks/challenger_datas/S7-2023-01-10.csv)
 
 第一張是 MVP_Ratio（MVP 率）和 Marks（星級）的關係圖和 PPMCC（皮尔逊相關係數），第二張圖則是 MVP_Ratio（MVP 率）和 WinRate（勝率）的關係圖和 PPMCC（皮尔逊相關係數）；MVP 率是拿 MVP 的場次除以總場次，WinRate（勝率）代表爬分速度，Played（總場次）代表花費時間，Marks（星級）代表爬分結果：
 

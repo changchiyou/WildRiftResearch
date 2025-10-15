@@ -10,7 +10,7 @@ This calculator helps determine the attack speed and critical chance requirement
 - **Goal**: Achieve seamless skill coverage (zero downtime)
 
 For the specific case analyzed: $D = 8$, $T = 17$, $p = 15$
-> ![NOTE]
+> [!NOTE]
 > Referring to the current PC version of Kog'Maw's W skill with a fixed 17-second cooldown and 8-second duration, combined with wildrift Navori's effect that reduces remaining cooldown of non-ultimate skills by 15% on critical hits.
 
 ## Mathematical Model
